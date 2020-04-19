@@ -34,8 +34,6 @@ public class Observer : MonoBehaviour
                 {
                     gameEnding.CaughtPlayer();
                 }
-
-
             }
         }
     }
